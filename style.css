@@ -1,0 +1,76 @@
+.carousel{
+    background-color: #fceae8;
+    margin-top: 20px;
+    padding-left: 40px;
+    border-radius: 20px;
+    
+}
+
+.buy{
+    border-radius: 8px;
+    border: none;
+    color: #fff;
+    padding: 9px 25px;
+   background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%)
+}
+.price{
+    color: #FF136F;
+}
+
+.w-100{
+    padding-right: 15px;
+}
+
+.cat2{
+    background-color: orchid;
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+}
+.cat3{
+    background-color: blue;
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+}
+.justify-content-around{
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top: 50px;
+}
+.cat1 img, .cat2 img, .cat3 img{
+    height: 100px;
+    width: 100px;
+}
+
+.cat1{
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+}
+
+.card{
+    border: none !important;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#emailin {
+    width: 287px;
+    height: 39px;
+}
+.textarea2{
+    width: 920px !important;
+    height: 292px;
+}
+
+.email-box{
+    background-color: #fceae8;
+    height: 300px;
+    margin-top: 30px;
+    border-radius: 15px;
+}
+footer{
+    text-align: center;
+    margin-top: 20px;
+}
